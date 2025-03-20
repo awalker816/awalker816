@@ -2,7 +2,7 @@
 
 <h2>👩🏾‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](url)
+  - 
 
 <h2>📄 Certifications</h2>
 
@@ -10,6 +10,6 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial Active Directory Home Lab](url)
+- 
 
 
