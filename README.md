@@ -14,7 +14,7 @@
 
 💼 Professional Edge: At Amazon, I’ve built a foundation in operational excellence—maintaining Top 3%+ quality metrics, mentoring peers, and working with IoT/robotic systems to keep performance and security top-tier.
 
-🎯 Career Goal: Becoming a Threat Detection Security Engineer at Amazon, where I can merge technical expertise, resilience, and a passion for protecting systems and data.
+🎯 Career Goal: Becoming a Threat Detection Security Engineer, where I can merge technical expertise, resilience, and a passion for protecting systems and data.
 
 ✨ Fun Fact: I like to call myself a “Cyber Babe in Training”—but don’t let the nickname fool you, I’m serious about continuous learning and growth in cybersecurity.
 
