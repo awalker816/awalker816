@@ -34,7 +34,7 @@
 
 <h2>🌐 Let’s Connect</h2>
 
-- 💼 [LinkedIn](www.linkedin.com/in/aprilviolet)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aprilviolet)
 
 - 👩🏾‍💻 [My Projects](https://github.com/awalker816?tab=projects)
 
