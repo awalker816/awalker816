@@ -36,7 +36,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aprilviolet)
 
-- 👩🏾‍💻 [My Projects](https://github.com/awalker816?tab=projects)
+- 👩🏾‍💻 [My Projects](https://github.com/awalker816?tab=repositories)
 
 - ✉️ Email: aprilwalker11@yahoo.com
 
