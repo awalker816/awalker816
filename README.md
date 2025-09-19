@@ -16,7 +16,7 @@
 
 🎯 Career Goal: Becoming a Threat Detection Security Engineer, where I can merge technical expertise, resilience, and a passion for protecting systems and data.
 
-✨ Fun Fact: I like to call myself a “Cyber Babe in Training”—but don’t let the nickname fool you, I’m serious about continuous learning and growth in cybersecurity.
+✨ Fun Fact: I’m serious about continuous learning and growth in cybersecurity.
 
 <h2>📄 Certifications</h2>
 
