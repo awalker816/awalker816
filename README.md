@@ -22,13 +22,16 @@
 
 - [CompTIA A+](https://www.credly.com/badges/a9085b29-3075-4f2f-9b0f-be0058697c61/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/0140bad6-204c-4559-9b34-1605e001f4fd/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/f4878557-e226-4c2a-a5a5-adb171ffea82/public_url)
+- [CompTIA IT Operations Specialist](https://www.credly.com/badges/4d069198-ae9c-4491-90e2-f5375aafef7f/public_url)
+- [CompTIA Secure Infrastructure Specialist](https://www.credly.com/badges/5f3b9d73-e6c1-4ae6-a958-e553a898ff4c/public_url)
+
+
 
 <h2>🔭 Currently Working On</h2>
 
 - Building a Threat Detection Project Portfolio (IDS/IPS labs, SIEM log analysis, network segmentation demos)
-  
-- Expanding my knowledge with CompTIA Security+ prep
-
+- Expanding my knowledge with cryptography
 - Hands-on practice in incident response and packet analysis via Wireshark & TryHackMe
 
 
