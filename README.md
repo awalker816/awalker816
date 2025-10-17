@@ -1,6 +1,6 @@
 <h1>👩🏾‍💻 About Me</h1>
     
-  Hi, I'm April Walker -- a Cybersecurity & Information Assurance student at Western Governors University, proudly CompTIA A+ and Network+ certified, and currently pursuing Security+. 🚀
+  Hi, I'm April Walker -- a Cybersecurity & Information Assurance student at Western Governors University, proudly CompTIA A+, Network+, and Security+ certified. 🚀
     
   I'm passionate about network security, incident response, and threat detection. Through hands-on labs, virtual environments and platforms like Wireshark, VirtualBox, and TryHackMe, I'm sharpening my skills in: 
 
