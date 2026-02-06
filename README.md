@@ -37,7 +37,7 @@
 <h2>✅ Completed Projects</h2>
 
 - Threat Detection Lab: Implemented IDS/IPS monitoring, analyzed security events, validated alerts, and documented findings in a controlled lab environment  
-  🔗 https://github.com/awalker816/security-plus-labs
+  🔗 (https://github.com/awalker816/security-plus-labs)
   
 <h2>🌐 Let’s Connect</h2>
 
